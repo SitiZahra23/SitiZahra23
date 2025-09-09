@@ -1,22 +1,19 @@
-<!-- ===== Fixed SVG Header (embedded) ===== -->
-<p align="center">
-  <img alt="Siti Zahra header" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjIyMCIgdmlld0JveD0iMCAwIDEyMDAgMjIwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDFcPSIwIiB4Mj0iMSIgeT0iMCIgeTI9IjAiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM4OUNGRjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjRjRGMEVFIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0ic2hhZG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAiPgogICAgICA8ZmVEcm9wU2hhZG93IGR4PSIwIiBkeT0iNiIgc3RkRGV2aWF0aW9uPSIxMCIgZmxvb2QtY29sb3I9IiM4OUNGRjAiIGZsb29kLW9wYWNpdHk9IjAuMzUiLz4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIyMjAiIGZpbGw9InVybCgjZykiLz4KICA8cGF0aCBkPSJNMzQsMTQwIEMyMzIsMjAwIDQzMiw4MCA2MDAsMTIwIEM4MDAsMTYwIDEwMDAsNjAgMTIwMCwxMjAgTDEyMDAsMjIwIEwwLDIyMCBaIiBmaWxsPSIjRkZGRkZGIiBmaWxsLW9wYWNpdHk9IjAuMTIiLz4KICA8cGF0aCBkPSJNMzQsMTUwIEMyMzIsMjEwIDQzMiwxMDAgNjAwLDE0MCBDODAwLDE4MCAxMDAwLDgwIDEyMDAsMTQwIEwxMjAwLDIyMCBMMCwyMjAgWiIgZmlsbD0iI0ZGRkZGRiIgZmlsbC1vcGFjaXR5PSIwLjA4Ii8+CiAgPCEtLSBOYW1lIC0tPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJWZXJkYW5hLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI0MiIgZm9udC13ZWlnaHQ9IjcwIiBmaWxsPSIjMWEyYTJhIiBmaWx0ZXI9InVybCgjc2hhZG93KSI+U2l0aSBaYWhyYTwvdGV4dD4KICA8dGV4dCB4PSI1MCUiIHk9IjEwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IlZlcmRhbmEsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE4IiBmaWxsPSIjMzMzMzMzIj5FeHBsb3JpbmcgRGVzaWduICYgVGVjaG5vbG9neSA8L3RleHQ+CiAgPGcgIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEwNTAsMzApIj4KICAgIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIzIi8+CiAgICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjYiIHI9IjIiLz4KICAgIDxjaXJjbGUgY3g9Ii0xNCIgY3k9IjgiIHI9IjIiLz4KICA8L2c+Cjwvc3ZnPg==" style="width:100%; max-width:1200px; height:auto; display:block;"/>&nbsp;
-</p>
-
-<!-- ===== Profile photo ===== -->
-<p align="center">
-  <img src="Siti Zahra.jpg" alt="Siti Zahra" width="210" style="border-radius:50%; box-shadow: 0 0 20px #89CFF0;"/>
-</p>
+<!-- HEADER -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Siti%20Zahra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 # Hi, I'm Siti Zahra! 🌸
 
-> 💡 A curious soul who loves to explore, learn, and connect.  
-> ✨ Passionate about **design, technology, and meaningful friendships**.
+<p align="center">
+  <img src="Siti%20Zahra.jpg" alt="Siti Zahra" width="200" style="border-radius:50%; box-shadow: 0px 0px 20px pink;">
+</p>
+
+> 🌷 Always curious, always learning.  
+> 💻 Passionate about design, technology, and building new friendships.
 
 ---
 
 ## 🎯 Interests
-- 🎨 Web & App Design  
+- 🎨 Web Design & App Design  
 - 🧩 UI/UX & E-Learning  
 - 🕊️ Conflict Mediation  
 - ✈️ Travelling & Exploring  
@@ -34,18 +31,30 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SitiZahra23&show_icons=true&hide_border=true&title_color=89CFF0&text_color=333333&icon_color=89CFF0&bg_color=F4F0EC" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SitiZahra23&hide_border=true&ring=89CFF0&fire=89CFF0&currStreakLabel=89CFF0&background=F4F0EC" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SitiZahra23&show_icons=true&hide_border=true&title_color=FF69B4&text_color=333333&icon_color=FF69B4&bg_color=ffffff" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SitiZahra23&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&background=ffffff" height="150" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SitiZahra23&theme=flat&no-frame=true&margin-w=15&title_color=89CFF0&text_color=333333&column=6&background=F4F0EC"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SitiZahra23&theme=flat&no-frame=true&margin-w=15&title_color=FF69B4&text_color=333333&column=6&background=ffffff" />
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SitiZahra23&bg_color=ffffff&color=FF69B4&line=FF69B4&point=333333&area=true&hide_border=true" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SitiZahra23&style=flat-square&color=FF69B4" alt="Visitors" />
+</p>
+
+<!-- FOOTER -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=footer)
