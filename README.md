@@ -23,13 +23,13 @@
 ## 📱 Connect with Me
 <p align="center">
   <a href="https://www.youtube.com/@CORTIS">
-    <img src="https://img.shields.io/badge/YouTube-CORTIS-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-%40CORTIS-red?style=social&logo=youtube"/>
   </a>
   <a href="https://www.tiktok.com/@boynextdoor_official">
-    <img src="https://img.shields.io/badge/TikTok-boynextdoor__official-010101?style=for-the-badge&logo=tiktok&logoColor=00F2EA"/>
+    <img src="https://img.shields.io/badge/TikTok-boynextdoor__official-black?style=social&logo=tiktok"/>
   </a>
   <a href="https://www.instagram.com/riize_official">
-    <img src="https://img.shields.io/badge/Instagram-%40riize__official-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%40riize__official-pink?style=social&logo=instagram"/>
   </a>
 </p>
 
