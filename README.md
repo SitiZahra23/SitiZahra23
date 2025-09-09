@@ -1,17 +1,11 @@
 <!-- Profile README for GitHub -->
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
-  Hi there, I'm <span style="color:#ff69b4;">Siti Zahra</span> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  👋 Hi there, I'm <span style="color:#ff69b4;">Siti Zahra</span> 🌸
 </h1>
 
 <p align="center">
   <img src="Siti Zahra.jpg" alt="Siti Zahra" width="200" style="border-radius:50%; box-shadow:0px 0px 20px #ff69b4;">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="sparkle gif"/>
 </p>
 
 ---
@@ -29,10 +23,6 @@
 🤝 Friendly soul who enjoys connecting with others  
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" height="5px"/>
-</p>
 
 ## 🎯 Interests
 - 🎨 Web Design & App Design  
@@ -89,17 +79,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=gradient&textColor=fff&titleColor=ff69b4&hideBorder" alt="Random Dev Joke" />
-</p>
-
----
-
-<p align="center">
   <marquee width="90%" direction="left" scrollamount="7" style="font-size:18px; font-weight:bold; color:#FF69B4;">
     ✨🌈 Creativity is my compass | 💻 Technology is my journey | 🤝 Friendship is the bridge 🌈✨
   </marquee>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="100%" alt="rainbow divider"/>
-</p>
