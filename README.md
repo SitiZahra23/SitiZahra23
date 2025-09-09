@@ -49,17 +49,3 @@
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SitiZahra23&bg_color=F4F0EC&color=89CFF0&line=89CFF0&point=333333&area=true&hide_border=true"/>
-</p>
-
----
-
-## 👀 Profile Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SitiZahra23&style=flat-square&color=89CFF0" alt="Visitors"/>
-</p>
-
-<!-- ===== Footer (reuse header svg but smaller) ===== -->
-<p align="center">
-  <img alt="footer" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjE1MCIgdmlld0JveD0iMCAwIDEyMDAgMTUwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDFcPSIwIiB4Mj0iMSIgeT0iMCIgeTI9IjAiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM4OUNGRjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjRjRGMEVFIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIxNTAiIGZpbGw9InVybCgjZykiLz4KICA8cGF0aCBkPSJNMzQsOTAgQzIzMiwxNTAgNDMyNzAsMTEwIDYwMCwxNTAgQzgxMiwxOTA gMTAwMCwxMTA gMTIwMCwxNTAgTDEyMDAsMTUwIEwwLDE1MCBaIiBmaWxsPSIjRkZGRkZGIiBmaWxsLW9wYWNpdHk9IjAuMTIiLz4KICA8L3N2Zz4=" style="width:100%; max-width:1200px; height:auto;"/>
-</p>
