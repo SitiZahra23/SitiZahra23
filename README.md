@@ -1,17 +1,17 @@
 <!-- HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,89CFF0,F4F0EC&height=200&section=header&text=Siti%20Zahra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=89CFF0,F4F0EC&height=220&section=header&text=Siti%20Zahra&fontSize=52&fontColor=333333&animation=twinkling&fontAlignY=35&desc=Exploring%20Design%20%26%20Technology&descAlignY=55&descAlign=50&descSize=18)
 
 <!-- PROFILE PHOTO -->
 <p align="center">
-  <img src="Siti Zahra.jpg" alt="Siti Zahra" width="200" style="border-radius:50%; box-shadow: 0px 0px 15px #89CFF0;">
+  <img src="Siti Zahra.jpg" alt="Siti Zahra" width="210" style="border-radius:50%; box-shadow: 0px 0px 20px #89CFF0;">
 </p>
 
 ---
 
 ## 🌸 About Me  
 Hi, I’m **Siti Zahra** 👋  
-💡 Passionate about exploring new ideas in IT, design, and human connection.  
-✨ I love learning, creating, and making friends around the world.  
+💡 A curious soul who loves to explore, learn, and connect.  
+✨ Passionate about **design, technology, and meaningful friendships**.  
 
 ---
 
@@ -38,18 +38,6 @@ Hi, I’m **Siti Zahra** 👋
 
 ---
 
-## ✨ Highlight Projects
-<p align="center">
-  <a href="https://github.com/SitiZahra23/awesome-ui-design">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SitiZahra23&repo=awesome-ui-design&title_color=89CFF0&text_color=333333&bg_color=F4F0EC&icon_color=89CFF0&hide_border=true" />
-  </a>
-  <a href="https://github.com/SitiZahra23/e-learning-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SitiZahra23&repo=e-learning-platform&title_color=89CFF0&text_color=333333&bg_color=F4F0EC&icon_color=89CFF0&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SitiZahra23&theme=flat&no-frame=true&margin-w=15&title_color=89CFF0&text_color=333333&column=6&background=F4F0EC" />
@@ -72,4 +60,4 @@ Hi, I’m **Siti Zahra** 👋
 ---
 
 <!-- FOOTER -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,89CFF0,F4F0EC&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=89CFF0,F4F0EC&height=160&section=footer)
