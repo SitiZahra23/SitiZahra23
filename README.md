@@ -43,17 +43,17 @@
   
   <!-- Project 1 -->
   <a href="https://github.com/SitiZahra23/awesome-ui-design">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SitiZahra23&repo=awesome-ui-design&theme=blueberry&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SitiZahra23&repo=awesome-ui-design&hide_border=true&bg_color=F4F0EC&title_color=89CFF0&text_color=000000&icon_color=89CFF0" />
   </a>
   
   <!-- Project 2 -->
   <a href="https://github.com/SitiZahra23/e-learning-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SitiZahra23&repo=e-learning-platform&theme=blueberry&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SitiZahra23&repo=e-learning-platform&hide_border=true&bg_color=F4F0EC&title_color=89CFF0&text_color=000000&icon_color=89CFF0" />
   </a>
   
   <!-- Project 3 -->
   <a href="https://github.com/SitiZahra23/travelogue">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SitiZahra23&repo=travelogue&theme=blueberry&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SitiZahra23&repo=travelogue&hide_border=true&bg_color=F4F0EC&title_color=89CFF0&text_color=000000&icon_color=89CFF0" />
   </a>
   
 </p>
@@ -62,19 +62,19 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SitiZahra23&show_icons=true&theme=blueberry&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SitiZahra23&theme=blueberry&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SitiZahra23&show_icons=true&hide_border=true&bg_color=F4F0EC&title_color=89CFF0&text_color=000000&icon_color=89CFF0" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SitiZahra23&hide_border=true&background=F4F0EC&ring=89CFF0&fire=89CFF0&currStreakLabel=89CFF0&sideNums=000000&sideLabels=000000&dates=000000" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SitiZahra23&layout=compact&theme=blueberry&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SitiZahra23&layout=compact&hide_border=true&bg_color=F4F0EC&title_color=89CFF0&text_color=000000" />
 </p>
 
 ---
 
 ## 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SitiZahra23&theme=onestar&no-frame=true&margin-w=15&margin-h=15&title=Stars,Followers,Commit,Repo,Issues,PullRequest"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SitiZahra23&no-frame=true&margin-w=15&margin-h=15&theme=flat&title=Stars,Followers,Commit,Repo,Issues,PullRequest&column=6&bg_color=F4F0EC&title_color=89CFF0&text_color=000000"/>
 </p>
 
 ---
