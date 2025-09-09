@@ -1,4 +1,4 @@
-<!-- HEADER -->
+<!-- ===== HEADER ===== -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Siti%20Zahra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 # Hi, I'm Siti Zahra! 🌸
@@ -8,7 +8,7 @@
 </p>
 
 > 🌷 Always curious, always learning.  
-> 💻 Passionate about design, technology, and building new friendships.
+> 💻 Passionate about **design, technology, and building new friendships**.
 
 ---
 
@@ -22,9 +22,15 @@
 
 ## 📱 Connect with Me
 <p align="center">
-  <a href="https://www.youtube.com/@CORTIS"><img src="https://img.shields.io/badge/YouTube-CORTIS-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/@boynextdoor_official"><img src="https://img.shields.io/badge/TikTok-boynextdoor_official-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="https://www.instagram.com/riize_official"><img src="https://img.shields.io/badge/Instagram-%40riize__official-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@CORTIS">
+    <img src="https://img.shields.io/badge/YouTube-%40CORTIS-red?style=social&logo=youtube"/>
+  </a>
+  <a href="https://www.tiktok.com/@boynextdoor_official">
+    <img src="https://img.shields.io/badge/TikTok-boynextdoor__official-black?style=social&logo=tiktok"/>
+  </a>
+  <a href="https://www.instagram.com/riize_official">
+    <img src="https://img.shields.io/badge/Instagram-%40riize__official-pink?style=social&logo=instagram"/>
+  </a>
 </p>
 
 ---
@@ -56,5 +62,5 @@
   <img src="https://komarev.com/ghpvc/?username=SitiZahra23&style=flat-square&color=FF69B4" alt="Visitors" />
 </p>
 
-<!-- FOOTER -->
+<!-- ===== FOOTER ===== -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=footer)
